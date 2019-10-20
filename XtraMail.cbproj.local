@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.340,C:\Users\999\Documents\RAD Studio\Projects\Unit1.cpp=C:\Progr\Mail_xe2\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.677,=C:\Users\999\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.340,C:\Users\999\Documents\RAD Studio\Projects\Unit1.h=C:\Progr\Mail_xe2\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.782,=C:\Progr\Mail_xe2\IdNTLMv2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.340,C:\Users\999\Documents\RAD Studio\Projects\Unit1.dfm=C:\Progr\Mail_xe2\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.351,C:\Users\999\Documents\RAD Studio\Projects\Project1.cbproj=C:\Progr\Mail_xe2\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.753,C:\Progr\Mail_xe2\XtraMail.cbproj=C:\Progr\Mail_xe2\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.099,=C:\Progr\Mail_xe2\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.819,=C:\Progr\Mail_xe2\IdSASL_NTLM.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.409,C:\Progr\Mail_xe2\Unit2.cpp=</Transaction>
+  </Transactions>
+</BorlandProject>
